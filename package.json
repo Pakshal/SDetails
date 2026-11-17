@@ -1,0 +1,1 @@
+{"name":"sadhviji-locations","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test","dev":"npm run build && python3 -m http.server 8080 --directory public"}}
